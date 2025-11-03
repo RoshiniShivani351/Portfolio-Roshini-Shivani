@@ -21,11 +21,19 @@ function App() {
 
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'Full-stack e-commerce application with user authentication, product management, and payment integration.',
-      tech: 'React, Node.js, MongoDB, Stripe',
-      github: 'https://github.com',
-      image: 'https://images.pexels.com/photos/3184297/pexels-photo-3184297.jpeg?auto=compress&cs=tinysrgb&w=600'
+      title: 'Employee Management System',
+      description: 'A React CRUD application to manage employees with Add, View, Edit & Delete functionality using JSON server as backend.',
+      tech: 'React, React Router, JSON Server, Fetch API, CSS',
+      github: 'https://employeerecordsmanagementsystem.netlify.app/', 
+      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fhr-management-system&psig=AOvVaw0yZ2hw6bMXHp5Gn60UNaPl&ust=1762278537143000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjS9abF1pADFQAAAAAdAAAAABAU'
+    }
+
+    {
+      title: 'Brain Stroke Prediction System Using Linear Regression',
+      description: 'A Flask web application that predicts the risk of brain stroke using a Linear Regression model. Implemented data preprocessing, model training, and real-time prediction based on user input..',
+      tech: 'Python, Flask, Linear Regression, HTML, CSS',
+      github: 'https://employeerecordsmanagementsystem.netlify.app/', 
+      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Ffedesoriano%2Fstroke-prediction-dataset&psig=AOvVaw1ay7aofV2Xd-06p5Zar1Ho&ust=1762278710827000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPignfbF1pADFQAAAAAdAAAAABAE'
     }
   ];
 
@@ -237,7 +245,7 @@ function App() {
                     className="inline-flex items-center gap-2 text-brand-accent hover:text-brand-accent/80 transition-colors"
                   >
                     <Github className="w-4 h-4" />
-                    <span className="text-sm font-medium">View Code</span>
+                    <span className="text-sm font-medium">View Project</span>
                     <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
