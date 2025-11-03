@@ -24,7 +24,7 @@ function App() {
       title: 'Employee Management System',
       description: 'A React CRUD application to manage employees with Add, View, Edit & Delete functionality using JSON server as backend.',
       tech: 'React, React Router, JSON Server, Fetch API, CSS',
-      github: 'https://employeerecordsmanagementsystem.netlify.app/', 
+      github: 'https://employee-records-management-sand.vercel.app/', 
       image: 'https://ik.imagekit.io/r48jes3mmv/EMS.webp?updatedAt=1762194875280'
     },
 
@@ -32,7 +32,7 @@ function App() {
       title: 'Brain Stroke Prediction System Using Linear Regression',
       description: 'A Flask web application that predicts the risk of brain stroke using a Linear Regression model. Implemented data preprocessing, model training, and real-time prediction based on user input..',
       tech: 'Python, Flask, Linear Regression, HTML, CSS',
-      github: 'https://employeerecordsmanagementsystem.netlify.app/', 
+      github: 'https://brain-stroke-prediction-system.vercel.app/', 
       image: 'https://ik.imagekit.io/r48jes3mmv/brain.jpg?updatedAt=1762194875196'
     }
   ];
