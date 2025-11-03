@@ -122,10 +122,9 @@ function App() {
           </h2>
           <div className="bg-brand-card rounded-2xl p-8 border border-brand-border shadow-xl">
             <p className="text-lg text-brand-text leading-relaxed">
-              I'm a passionate Full Stack Developer with a love for creating elegant, efficient, and user-friendly web applications.
-              With expertise in modern technologies like React, Node.js, and MongoDB, I transform ideas into powerful digital solutions.
-              I thrive on solving complex problems and continuously learning new technologies to stay at the forefront of web development.
-              My goal is to build applications that not only meet technical requirements but also deliver exceptional user experiences.
+             I'm a passionate Java Full Stack Developer dedicated to creating elegant and efficient web applications. With a strong foundation in modern technologies like React, Spring Boot, and Boot Strap, I transform ideas into functional, user-friendly solutions.
+
+             My passion lies in developing scalable systems, writing clean code, and continuously learning new technologies that enhance user experience. From designing RESTful APIs to building responsive interfaces, I’m dedicated to creating efficient, maintainable, and impactful software that makes a difference.
             </p>
           </div>
         </div>
