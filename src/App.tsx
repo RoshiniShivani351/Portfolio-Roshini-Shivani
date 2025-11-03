@@ -25,7 +25,7 @@ function App() {
       description: 'A React CRUD application to manage employees with Add, View, Edit & Delete functionality using JSON server as backend.',
       tech: 'React, React Router, JSON Server, Fetch API, CSS',
       github: 'https://employeerecordsmanagementsystem.netlify.app/', 
-      image: 'src/EMS.webp'
+      image: 'https://ik.imagekit.io/r48jes3mmv/EMS.webp?updatedAt=1762194875280'
     },
 
     {
@@ -33,7 +33,7 @@ function App() {
       description: 'A Flask web application that predicts the risk of brain stroke using a Linear Regression model. Implemented data preprocessing, model training, and real-time prediction based on user input..',
       tech: 'Python, Flask, Linear Regression, HTML, CSS',
       github: 'https://employeerecordsmanagementsystem.netlify.app/', 
-      image: 'src/brain.jpg'
+      image: 'https://ik.imagekit.io/r48jes3mmv/brain.jpg?updatedAt=1762194875196'
     }
   ];
 
