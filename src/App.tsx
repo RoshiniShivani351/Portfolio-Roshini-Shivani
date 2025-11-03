@@ -122,12 +122,14 @@ function App() {
           </h2>
           <div className="bg-brand-card rounded-2xl p-8 border border-brand-border shadow-xl">
             <pre><p className="text-lg text-brand-text leading-relaxed">
-             I'm a passionate Java Full Stack Developer dedicated to creating elegant and efficient web applications.
-              With a strong foundation in modern technologies like React, Spring Boot, and Boot Strap, I transform ideas into functional, user-friendly solutions.
+             I'm a passionate Java Full Stack Developer dedicated to creating elegant and efficient 
+             web applications. With a strong foundation in modern technologies like React, 
+             Spring Boot, and Boot Strap, I transform ideas into functional, user-friendly solutions.
 
-             My passion lies in developing scalable systems, writing clean code, and continuously learning new technologies 
-             that enhance user experience. From designing RESTful APIs to building responsive interfaces, 
-             I’m dedicated to creating efficient, maintainable, and impactful software that makes a difference.
+             My passion lies in developing scalable systems, writing clean code, and continuously 
+             learning new technologies that enhance user experience. From designing RESTful APIs
+             to building responsive interfaces, I’m dedicated to creating efficient, maintainable, 
+             and impactful software that makes a difference.
             </p></pre>
           </div>
         </div>
