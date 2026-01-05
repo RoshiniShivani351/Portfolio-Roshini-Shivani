@@ -34,6 +34,14 @@ function App() {
       tech: 'Python, Flask, Linear Regression, HTML, CSS',
       github: 'https://brain-stroke-prediction-system.vercel.app/', 
       image: 'https://ik.imagekit.io/r48jes3mmv/brain.jpg?updatedAt=1762194875196'
+    },
+
+     {
+      title: 'Bakery E-Commerce Website',
+      description: 'A frontend bakery website featuring product browsing, search functionality, and cart management using JavaScript and LocalStorage. Built to demonstrate DOM manipulation, UI design, and client-side state persistence.',
+      tech: 'HTML, CSS, JavaScript, LocalStorage',
+      github: 'https://bakery-e-commerce-website-blond.vercel.app/', 
+      image: 'https://ik.imagekit.io/r48jes3mmv/cupcake1.jpg.webp'
     }
   ];
 
@@ -459,3 +467,4 @@ function App() {
 }
 
 export default App;
+
