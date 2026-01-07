@@ -32,7 +32,8 @@ function App() {
       title: 'Brain Stroke Prediction System Using Linear Regression',
       description: 'A Flask web application that predicts the risk of brain stroke using a Linear Regression model. Implemented data preprocessing, model training, and real-time prediction based on user input..',
       tech: 'Python, Flask, Linear Regression, HTML, CSS',
-      github: 'brain-stroke-prediction-system-production.up.railway.app', 
+      github: 'https://github.com/RoshiniShivani351/Brain-Stroke-Prediction-System', 
+      demo: 'https://brain-stroke-prediction-system-production.up.railway.app',
       image: 'https://ik.imagekit.io/r48jes3mmv/brain.jpg?updatedAt=1762194875196'
     },
 
@@ -467,5 +468,6 @@ function App() {
 }
 
 export default App;
+
 
 
